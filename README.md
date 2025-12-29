@@ -5,6 +5,7 @@ I am a **Software Development student** at **Ondokuz Mayıs University**. I am c
 ## Languages I am Learning:
 - HTML, CSS
 - C++, C#
+- Python
 
 ## My Goal:
 - To improve my software development skills and contribute to open-source projects.
